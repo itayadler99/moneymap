@@ -1,8 +1,9 @@
 # MoneyMap
 
-אפליקציית ניהול פיננסי אישי. מסמך אפיון: `SPEC.md`.
+אפליקציית ניהול פיננסי אישי לאנשים פרטיים. עברית RTL.
+מסמך אפיון: `SPEC.md`.
 
-**Live demo:** https://moneymap-blond.vercel.app
+**🔗 Live demo:** https://moneymap-blond.vercel.app
 
 ## הקמה (3 צעדים)
 
