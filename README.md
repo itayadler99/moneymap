@@ -2,6 +2,8 @@
 
 אפליקציית ניהול פיננסי אישי. מסמך אפיון: `SPEC.md`.
 
+**Live demo:** https://moneymap-blond.vercel.app
+
 ## הקמה (3 צעדים)
 
 ### 1. פתח פרויקט Supabase (חינמי)
